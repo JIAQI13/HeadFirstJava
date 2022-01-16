@@ -1,4 +1,4 @@
-package Tree;
+
 /*
 * In this program, we need to calculate the difference between the sum of nodes present at odd levels and sum of nodes present at even levels.
 * Suppose, if a tree contains 5 levels, then
