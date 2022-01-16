@@ -1,2 +1,1 @@
-# HeadFirstJava
-book HeadFirstJava self study code
+Personal Practise for java coding problem and learning java web development tool kit
